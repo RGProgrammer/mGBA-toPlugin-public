@@ -1,3 +1,4 @@
 [submodule "mgba"]
-	path = mgba
+	path = "./mgba"
 	url = https://github.com/RGProgrammer/mgba
+
